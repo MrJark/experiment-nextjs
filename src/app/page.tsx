@@ -55,8 +55,10 @@ export default function Home() {
             mrjark.com (in progres)
           </Link>
         </div>
-        <p className='text-center text-lg mt-5 text-slate-400'>Lo sé, no es responsive</p>
-        <span className='flex text-center flex-col'>🙄</span>
+        <div className=' lg:hidden md:hidden sm:visible'>
+          <p className='text-center text-lg mt-5 text-slate-400'>Lo sé, no es responsive</p>
+          <span className='flex text-center flex-col'>🙄</span>
+        </div>
           
       </div>
     </main>

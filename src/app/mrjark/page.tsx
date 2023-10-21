@@ -11,6 +11,10 @@ export default function Mrjark() {
         >
           Go Back
         </Link>
+        <div className=' lg:hidden md:hidden sm:visible'>
+          <p className='text-center text-lg mt-5 text-slate-100'>No, esto tampoco es responsive</p>
+          <span className='flex text-center flex-col'>🙄</span>
+        </div>
       </div>
     </main>
   )
