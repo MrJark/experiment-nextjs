@@ -48,13 +48,16 @@ export default function Home() {
             GitHub
           </Link>
           <Link 
-            href='#'
+            href='./mrjark'
             className='flex justify-center content-center gap-2 text-lg italic font-medium text-purple-200 opacity-50 hover:underline'
           >
             <Image src='mrjark.svg' alt='logo de mrjark' width={24} height={24} />
             mrjark.com (in progres)
           </Link>
         </div>
+        <p className='text-center text-lg mt-5 text-slate-400'>Lo sé, no es responsive</p>
+        <span className='flex text-center flex-col'>🙄</span>
+          
       </div>
     </main>
   )
