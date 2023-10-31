@@ -20,7 +20,7 @@ export default function Home() {
               height={200}
             />
             <h2 className='text-2xl text-white'>
-              Fanático las Startup. <br />Exploro, aprendo y comparto píldoras sobre <strong className='text-teal-400 italic'>Growth</strong>, <strong className='text-blue-400 italic'>Behavioural</strong> & <strong className='text-orange-400 italic'>Development</strong> en mis redes y blog
+              Fanático las Startup. <br />Exploro, aprendo y comparto píldoras sobre <strong className='text-teal-400 italic'>Growth</strong>, <strong className='text-blue-400 italic'>Behavioural</strong> & <strong className='text-yellow-400 italic'>Startups</strong> en mis redes y blog
             </h2>
 
           </div>
