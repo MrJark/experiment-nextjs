@@ -9,7 +9,7 @@ export default function Home() {
         <div className='flex flex-col justify-center items-center gap-4'>
           <h1 
             className='text-5xl text-teal-50 opacity-80 font-bold'
-          >Hello, I´m MrJark 🙋🏽‍♂️</h1>
+          >Hola soy Chema aka MrJark por las redes 🙋🏽‍♂️</h1>
           <div className=' flex flex-row items-center justify-center gap-6'>
             <Image 
               className='flex rounded-full'
@@ -20,7 +20,7 @@ export default function Home() {
               height={200}
             />
             <h2 className='text-2xl text-white'>
-              Fanático las Startup. <br />Exploro, aprendo y comparto píldoras sobre <strong className='text-teal-400 italic'>Growth</strong>, <strong className='text-blue-400 italic'>Behavioural</strong> & <strong className='text-yellow-400 italic'>Startups</strong> en mis redes y blog
+              Fanático las Startup 🦄<br />Exploro, aprendo y comparto píldoras sobre <strong className='text-teal-400 italic'>Growth</strong>, <strong className='text-blue-400 italic'>Behavioural</strong> & <strong className='text-yellow-400 italic'>Startups</strong> en mis redes y blog.
             </h2>
 
           </div>
