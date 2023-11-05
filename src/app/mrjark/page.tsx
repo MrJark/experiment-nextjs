@@ -8,7 +8,7 @@ export default function Mrjark() {
         <Image
           className='flex mb-11'
           alt='mrjark logo'
-          src='/mrjark.svg'
+          src='/favicon.ico'
           about='logo mrjark'
           width={ 50 }
           height={ 50 }
