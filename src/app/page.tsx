@@ -37,21 +37,21 @@ export default function Home() {
         </div>
         <div className="flex justify-center pt-10 gap-8">
           <Link
-            href="https://linkedin.com/in/mrjark"
+            href="https://linkedin.com/in/immrjark"
             className="flex justify-center content-center gap-2 text-lg italic font-medium text-purple-200 hover:underline"
           >
             <AiFillLinkedin className="text-white text-2xl" />
             LinkedIn
           </Link>
           <Link
-            href="https://www.instagram.com/mrjark_/"
+            href="https://www.instagram.com/immrjark/"
             className="flex justify-center content-center gap-2 text-lg italic font-medium text-purple-200 hover:underline"
           >
             <AiFillInstagram className="text-white text-2xl" />
             Instagram
           </Link>
           <Link
-            href="https://github.com/MrJark"
+            href="https://github.com/immrJark"
             className="flex justify-center content-center gap-2 text-lg italic font-medium text-purple-200 hover:underline"
           >
             <AiFillGithub className="text-white text-2xl" />
