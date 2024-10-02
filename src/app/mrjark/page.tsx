@@ -6,7 +6,8 @@ export default function Mrjark() {
     <main className="flex flex-col min-h-screen w-screen items-center justify-between p-24">
       <div className="flex flex-col justify-center items-center w-2/3 h-80 bg-zinc-500 rounded-3xl shadow-lg shadow-zinc-400">
         <Image
-          className="flex mb-11"
+          className="flex mb-11 animate-bounce
+         "
           alt="mrjark logo"
           src="/mrjark.svg"
           about="mrjark logo"
